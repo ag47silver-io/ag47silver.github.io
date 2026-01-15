@@ -203,3 +203,6 @@ footer {
   color: var(--silver-dark);
   margin-top: 0.75rem;
 }
+iframe {
+  background: #020617;
+}
