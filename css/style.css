@@ -9,7 +9,16 @@ body {
   color: #e9eef5;
   line-height: 1.6;
 }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #0b0f14;
+  color: #e9eef5;
+  line-height: 1.6;
 
+  /* ADD THIS */
+  padding-top: 72px; /* adjust if your nav is taller/shorter */
+}
 a { color: #9fd3ff; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
