@@ -284,3 +284,11 @@ button[disabled] {
 #element .two-col {
   align-items: center;
 }
+.footer a {
+  color: #9fd3ff;
+  font-weight: 600;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
